@@ -18,7 +18,6 @@ func MainMenu() string {
 			9. Metadata Statistik 📂
 			10. Pengaduan 📬
 			11. Chat Admin via WhatsApp 📞
-			12. Saran & Masukan untuk BOT LAYANAN BPS PASAMAN BARAT 💌
 
 			#BPSKabupatenPasamanBarat`
 }

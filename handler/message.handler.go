@@ -1,7 +1,6 @@
 package handler
 
 import (
-	
 	"github.com/bps-pasaman-barat/bot_tele_bps.git/service"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
@@ -84,8 +83,16 @@ func HandleMessage(update tgbotapi.Update) tgbotapi.MessageConfig {
 		case "1":
 			userStates[chatID] = "menu_1_1" // Submenu level 2: Statistik Demografi & Sosial
 			msg.Text = service.MenuStatistikDemografiSosial()
-		case "2", "3", "4":
-			msg.Text = "Menu ini sedang dalam pengembangan." // Placeholder untuk opsi lainnya
+		case "2" :
+			userStates[chatID] = "menu_1_2"
+			msg.Text = service.MenuStatistikEkonomi()
+		case "3" :
+			userStates[chatID] = "menu_1_3"
+			msg.Text = service.MenuStatistikEkonomi()
+		case "4" :
+			userStates[chatID] = "menu_1_4"
+			msg.Text = service.MenuStatistikEkonomi()
+		
 		default:
 			msg.Text = service.MenuPencarianTidakTersedia()
 		}
