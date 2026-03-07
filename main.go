@@ -28,7 +28,6 @@ func main() {
 			Command:     "menu",
 			Description: "Menampilkan menu utama",
 		},
-
 	)
 
 	bot.Request(commands)
