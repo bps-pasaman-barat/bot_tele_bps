@@ -3,11 +3,14 @@ package main
 import (
 	"log"
 	"os"
+	"time"
 
 	"github.com/bps-pasaman-barat/bot_tele_bps.git/handler"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"github.com/joho/godotenv"
 )
+
+var userTimers = map[int64]*time.Timer{}
 
 func main() {
 
@@ -31,6 +34,7 @@ func main() {
 	)
 
 	bot.Request(commands)
+
 	updates := bot.GetUpdatesChan(updateConfig)
 
 	for update := range updates {
@@ -39,8 +43,21 @@ func main() {
 			continue
 		}
 
+		chatID := update.Message.Chat.ID
 		msg := handler.HandleMessage(update)
-
 		bot.Send(msg)
+
+		if t, ok := userTimers[chatID]; ok {
+			t.Stop()
+		}
+
+		userTimers[chatID] = time.AfterFunc(1*time.Minute, func() {
+			thanks := tgbotapi.NewMessage(chatID, `Terima kasih telah menggunakan BOT LAYANAN BPS PASAMAN BARAT! 😊  
+			
+			Untuk mendapatkan informasi dan update terbaru dari kami, jangan lupa follow Instagram BPS Pasaman Barat:  
+			https://www.instagram.com/bps_pasbar`)
+			bot.Send(thanks)
+		})
+
 	}
 }

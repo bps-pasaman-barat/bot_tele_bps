@@ -38,7 +38,7 @@ func MenuCariData()string {
 	99. Menu Sebelumnya 🔙
 	00. Menu Utama 🏠
 
-	#BPSPasmanBarat`
+	#BPSKabupatenPasamanBarat`
 }
 
 
