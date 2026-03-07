@@ -1,0 +1,6 @@
+services:
+  bot:
+    build: .
+    image: bot-tele-bps:1
+    container_name: bot-tele-bps
+    restart: always

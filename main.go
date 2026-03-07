@@ -11,6 +11,7 @@ import (
 )
 
 var userTimers = map[int64]*time.Timer{}
+var sessionActive = map[int64]bool{}
 
 func main() {
 
@@ -42,8 +43,17 @@ func main() {
 		if update.Message == nil {
 			continue
 		}
-
 		chatID := update.Message.Chat.ID
+
+		if !sessionActive[chatID] {
+			if update.Message.Text != "/menu" {
+				msg := tgbotapi.NewMessage(chatID, "Silakan ketik /menu untuk memulai layanan.")
+				bot.Send(msg)
+				continue
+			}
+			sessionActive[chatID] = true
+		}
+
 		msg := handler.HandleMessage(update)
 		bot.Send(msg)
 
@@ -52,11 +62,17 @@ func main() {
 		}
 
 		userTimers[chatID] = time.AfterFunc(1*time.Minute, func() {
-			thanks := tgbotapi.NewMessage(chatID, `Terima kasih telah menggunakan BOT LAYANAN BPS PASAMAN BARAT! 😊  
-			
-			Untuk mendapatkan informasi dan update terbaru dari kami, jangan lupa follow Instagram BPS Pasaman Barat:  
-			https://www.instagram.com/bps_pasbar`)
+
+			thanks := tgbotapi.NewMessage(chatID,
+				`Terima kasih telah menggunakan BOT LAYANAN BPS PASAMAN BARAT! 😊  
+   
+				Untuk mendapatkan informasi dan update terbaru dari kami, jangan lupa follow Instagram BPS Pasaman Barat:  
+				https://www.instagram.com/bps_pasbar`)
+
 			bot.Send(thanks)
+
+			delete(sessionActive, chatID)
+			delete(userTimers, chatID)
 		})
 
 	}
