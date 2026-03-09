@@ -22,8 +22,7 @@ func MainMenu() string {
 			#BPSKabupatenPasamanBarat`
 }
 
-
-func MenuCariData()string {
+func MenuCariData() string {
 	return `
 	Cari Data 🔎
 
@@ -41,10 +40,9 @@ func MenuCariData()string {
 	#BPSKabupatenPasamanBarat`
 }
 
-
 func BRSMenu() string {
 
-return `BRS – Berita Resmi Statistik
+	return `BRS – Berita Resmi Statistik
 
 		#SahabatData bisa cek info rilis resmi BPS melalui:
 
@@ -70,7 +68,7 @@ func PublikasiMenu() string {
 
 func InfoKegiatanMenu() string {
 
-	return`Info Kegiatan BPS 🗓️
+	return `Info Kegiatan BPS 🗓️
 
 	Penasaran dengan kegiatan statistik dan aktivitas seru lainnya dari BPS Ka? Yuk cek beritanya di sini:
 	🔗 https://pasamanbaratkab.bps.go.id/news
@@ -84,7 +82,7 @@ func InfoKegiatanMenu() string {
 
 func ProfilMenu() string {
 
-	return`Profil BPS 👥
+	return `Profil BPS 👥
 
 		Kenalan lebih dekat dengan BPS Kabupaten Pasaman Barat yuk! Lihat profil lengkapnya di sini:
 		🔗 https://ppid.bps.go.id/?mfd=1312
@@ -98,7 +96,7 @@ func ProfilMenu() string {
 
 func MediaSosialMenu() string {
 
-	return`Media Sosial 📱
+	return `Media Sosial 📱
 
 			Yuk, ikuti dan pantau update terbaru dari BPS Kabupaten Pasaman Barat lewat media sosial kami! Klik tautan di bawah ini ya:
 
@@ -115,12 +113,12 @@ func MediaSosialMenu() string {
 			99. Menu Sebelumnya 🔙
 			00. Menu Utama 🏠
 
-			#BPSKabupatenPasamanBarat`	
+			#BPSKabupatenPasamanBarat`
 }
 
 func GaleriInfografisMenu() string {
 
-	return`Galeri Infografis 📊
+	return `Galeri Infografis 📊
 
 			Mau lihat data BPS Kabupaten Pasaman Barat dalam bentuk yang lebih visual dan menarik? Yuk cek infografis kami lewat tautan berikut:
 
@@ -130,13 +128,13 @@ func GaleriInfografisMenu() string {
 			99. Menu Sebelumnya 🔙
 			00. Menu Utama 🏠
 
-			#BPSKabupatenPasamanBarat`	
+			#BPSKabupatenPasamanBarat`
 
 }
 
 func RekomendasiKegiatanStatistikMenu() string {
 
-	return`Rekomendasi Kegiatan Statistik (Romantik) 💡
+	return `Rekomendasi Kegiatan Statistik (Romantik) 💡
 
 			Yuk, eksplor berbagai rekomendasi kegiatan statistik dari BPS melalui ROMANTIK!
 			Platform ini membantu perangkat daerah dalam merencanakan kegiatan statistik yang sesuai kebutuhan dan prioritas pembangunan.
@@ -148,12 +146,12 @@ func RekomendasiKegiatanStatistikMenu() string {
 			99. Menu Sebelumnya 🔙
 			00. Menu Utama 🏠
 
-			#BPSKabupatenPasamanBarat`	
+			#BPSKabupatenPasamanBarat`
 }
 
 func MetadataStatistikMenu() string {
 
-	return`Metadata Statistik 📂
+	return `Metadata Statistik 📂
 
 			Penasaran tentang definisi, cakupan, satuan, dan metode pengumpulan data statistik? Yuk jelajahi metadata resmi dari BPS melalui tautan berikut:
 
@@ -168,7 +166,7 @@ func MetadataStatistikMenu() string {
 
 func PengaduanMenu() string {
 
-	return`Pengaduan 📬
+	return `Pengaduan 📬
 
 	Jika #SahabatData ingin menyampaikan pengaduan, bisa langsung mengakses tautan berikut ya:
 
@@ -184,7 +182,7 @@ func PengaduanMenu() string {
 
 func ChatAdminMenu() string {
 
-	return`Chat Admin via WhatsApp 📞
+	return `Chat Admin via WhatsApp 📞
 
 	Butuh bantuan langsung?
 	#SahabatData bisa konsultasi statistik atau ajukan permintaan data melalui Admin kami via WhatsApp, ya!
@@ -209,14 +207,13 @@ func MenuTidakTersedia() string {
 	#BPSKabupatenPasamanBarat`
 }
 
-
 // func SaranMasukanMenu() string {
 
 // 	return`Saran & Masukan untuk BOT LAYANAN BPS PASAMAN BARAT 💌
 
 // 	#SahabatData punya ide, saran, atau masukan untuk meningkatkan layanan bot kami? Yuk, sampaikan langsung lewat sini dengan format:
-// 	Nama: 
-// 	Saran & Masukan: 
+// 	Nama:
+// 	Saran & Masukan:
 
 // 	Kalau kamu butuh layanan lainnya, cukup ketik:
 // 	99. Menu Sebelumnya 🔙

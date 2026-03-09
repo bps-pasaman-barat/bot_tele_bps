@@ -4,7 +4,7 @@ func MenuPencarianTidakTersedia() string {
 	return `Pilihan tidak dikenali. Silakan coba lagi ya 😊
 
 	Atau butuh layanan lainnya? Silakan ketik angkanya ya 👇
-	199. Menu Pencarian Sebelumnya 🔙
+	99. Menu Pencarian Sebelumnya 🔙
 	00. Menu Utama 🏠
 
 	#BPSKabupatenPasamanBarat`
@@ -28,7 +28,7 @@ func MenuStatistikDemografiSosial() string {
 	10. Aktivitas Politik dan Komunitas Lainnya
 	11. Penggunaan Waktu
 
-	199. Menu Pencarian Sebelumnya 🔙
+	99. Menu Pencarian Sebelumnya 🔙
 	00. Menu Utama 🏠
 
 	#BPSKabupatenPasamanBarat`
@@ -57,7 +57,7 @@ func MenuStatistikEkonomi() string {
 	14. Pariwisata
 	15. Perbankan, Asuransi, dan Finansial
 
-	199. Menu Pencarian Sebelumnya 🔙
+	99. Menu Pencarian Sebelumnya 🔙
 	00. Menu Utama 🏠
 	
 	#BPSKabupatenPasamanBarat`
@@ -83,7 +83,7 @@ func MenuStatistikLingkunganMultiDomain() string {
 	10. Perkembangan Berkelanjutan
 	11. Kewiraswastaan
 
-	199. Menu Pencarian Sebelumnya 🔙
+	99. Menu Pencarian Sebelumnya 🔙
 	00. Menu Utama 🏠
 
 	#BPSKabupatenPasamanBarat`
@@ -100,7 +100,7 @@ func PermintaanWilkerstat() string {
 
 	Kembali ke menu lainnya? Ketik:
 
-	199. Menu Pencarian Sebelumnya 🔙
+	99. Menu Pencarian Sebelumnya 🔙
 	00. Menu Utama 🏠
 	#BPSKabupatenPasamanBarat`
 }

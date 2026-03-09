@@ -61,7 +61,7 @@ func main() {
 			t.Stop()
 		}
 
-		userTimers[chatID] = time.AfterFunc(1*time.Minute, func() {
+		userTimers[chatID] = time.AfterFunc(2*time.Minute, func() {
 
 			thanks := tgbotapi.NewMessage(chatID,
 				`Terima kasih telah menggunakan BOT LAYANAN BPS PASAMAN BARAT! 😊  
