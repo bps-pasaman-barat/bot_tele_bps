@@ -30,8 +30,8 @@ var menuFlow = map[string]map[string]Action{
 	"menu_1": {
 		"1":  {"menu_1_1", service.MenuStatistikDemografiSosial},
 		"2":  {"menu_1_2", service.MenuStatistikEkonomi},
-		"3":  {"menu_1_3", service.MenuStatistikEkonomi},
-		"4":  {"menu_1_4", service.MenuStatistikEkonomi},
+		"3":  {"menu_1_3", service.MenuStatistikLingkunganMultiDomain},
+		"4":  {"menu_1_4", service.PermintaanDataMikroPermintaanWilkerstat},
 		"99": {"main", service.MainMenu},
 	},
 	"menu_1_1": {
@@ -72,6 +72,26 @@ var menuFlow = map[string]map[string]Action{
 	"menu_1_2_item": {
 		"99": {"menu_1_2", service.MenuStatistikEkonomi},
 	},
+
+	"menu_1_3": {
+		"1":  {"menu_1_3_item", service.Lingkungan},
+		"2":  {"menu_1_3_item", service.StatistikRegional},
+		"3":  {"menu_1_3_item", service.StatistikIndikatorMultiDomain},
+		"4":  {"menu_1_3_item", service.BukuTabungan},
+		"5":  {"menu_1_3_item", service.KondisiTT},
+		"6":  {"menu_1_3_item", service.GenderPopulasiKhusus},
+		"7":  {"menu_1_3_item", service.MasyarakatInformasi},
+		"8":  {"menu_1_3_item", service.Globalisasi},
+		"9":  {"menu_1_3_item", service.IndikatorMillenium},
+		"10": {"menu_1_3_item", service.PerkembanganBerkelanjutan},
+		"11": {"menu_1_3_item", service.Kewiraswastaan},
+
+		"99": {"menu_1", service.MenuCariData},
+	},
+	"menu_1_3_item": {
+		"99": {"menu_1_3", service.MenuStatistikLingkunganMultiDomain},
+	},
+
 	"menu_2":  {"99": {"main", service.MainMenu}},
 	"menu_3":  {"99": {"main", service.MainMenu}},
 	"menu_4":  {"99": {"main", service.MainMenu}},

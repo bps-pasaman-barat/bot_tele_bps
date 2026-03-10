@@ -90,7 +90,7 @@ func MenuStatistikLingkunganMultiDomain() string {
 
 }
 
-func PermintaanWilkerstat() string {
+func PermintaanDataMikroPermintaanWilkerstat() string {
 	return `
 	Permintaan Data Mikro dan Peta Digital Wilkerstat 🗺️
 
