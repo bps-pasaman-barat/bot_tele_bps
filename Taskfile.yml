@@ -1,0 +1,19 @@
+version: '3'
+
+tasks:
+  run:dev:
+    cmds:
+      - air .
+
+  build:
+    cmds:
+      - go build -o bot-tele main.go
+
+  docker:
+    cmds:
+      - docker compose up -d
+  fmt:
+    desc: Format code
+    cmds:
+      - go fmt ./...
+      - goimports -w .

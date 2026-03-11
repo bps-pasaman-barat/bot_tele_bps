@@ -1,79 +1,83 @@
 package main
 
-import (
-	"log"
-	"os"
-	"time"
+import "github.com/bps-pasaman-barat/bot_tele_bps.git/question"
 
-	"github.com/bps-pasaman-barat/bot_tele_bps.git/handler"
-	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
-	"github.com/joho/godotenv"
-)
+// import (
+// 	"log"
+// 	"os"
+// 	"time"
 
-var userTimers = map[int64]*time.Timer{}
-var sessionActive = map[int64]bool{}
+// 	"github.com/bps-pasaman-barat/bot_tele_bps.git/handler"
+// 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
+// 	"github.com/joho/godotenv"
+// )
+
+// var userTimers = map[int64]*time.Timer{}
+// var sessionActive = map[int64]bool{}
 
 func main() {
 
-	godotenv.Load()
+	question.Question()
 
-	token := os.Getenv("BOT_TELEGRAM_TOKEN")
+	// godotenv.Load()
 
-	bot, err := tgbotapi.NewBotAPI(token)
-	if err != nil {
-		log.Fatal(err)
-	}
+	// token := os.Getenv("BOT_TELEGRAM_TOKEN")
 
-	updateConfig := tgbotapi.NewUpdate(0)
-	updateConfig.Timeout = 60
-	commands := tgbotapi.NewSetMyCommands(
+	// bot, err := tgbotapi.NewBotAPI(token)
+	// if err != nil {
+	// 	log.Fatal(err)
+	// }
 
-		tgbotapi.BotCommand{
-			Command:     "menu",
-			Description: "Menampilkan menu utama",
-		},
-	)
+	// updateConfig := tgbotapi.NewUpdate(0)
+	// updateConfig.Timeout = 60
+	// commands := tgbotapi.NewSetMyCommands(
 
-	bot.Request(commands)
+	// 	tgbotapi.BotCommand{
+	// 		Command:     "menu",
+	// 		Description: "Menampilkan menu utama",
+	// 	},
+	// )
 
-	updates := bot.GetUpdatesChan(updateConfig)
+	// bot.Request(commands)
 
-	for update := range updates {
+	// updates := bot.GetUpdatesChan(updateConfig)
 
-		if update.Message == nil {
-			continue
-		}
-		chatID := update.Message.Chat.ID
+	// for update := range updates {
 
-		if !sessionActive[chatID] {
-			if update.Message.Text != "/menu" {
-				msg := tgbotapi.NewMessage(chatID, "Silakan ketik /menu untuk memulai layanan.")
-				bot.Send(msg)
-				continue
-			}
-			sessionActive[chatID] = true
-		}
+	// 	if update.Message == nil {
+	// 		continue
+	// 	}
+	// 	chatID := update.Message.Chat.ID
 
-		msg := handler.HandleMessage(update)
-		bot.Send(msg)
+	// 	if !sessionActive[chatID] {
+	// 		if update.Message.Text != "/menu" {
+	// 			msg := tgbotapi.NewMessage(chatID, "Silakan ketik /menu untuk memulai layanan.")
+	// 			bot.Send(msg)
+	// 			continue
+	// 		}
+	// 		sessionActive[chatID] = true
+	// 	}
 
-		if t, ok := userTimers[chatID]; ok {
-			t.Stop()
-		}
+	// 	msg := handler.HandleMessage(update)
+	// 	bot.Send(msg)
 
-		userTimers[chatID] = time.AfterFunc(2*time.Minute, func() {
+	// 	if t, ok := userTimers[chatID]; ok {
+	// 		t.Stop()
+	// 	}
 
-			thanks := tgbotapi.NewMessage(chatID,
-				`Terima kasih telah menggunakan BOT LAYANAN BPS PASAMAN BARAT! 😊  
-   
-				Untuk mendapatkan informasi dan update terbaru dari kami, jangan lupa follow Instagram BPS Pasaman Barat:  
-				https://www.instagram.com/bps_pasbar`)
+	// 	userTimers[chatID] = time.AfterFunc(5*time.Minute, func() {
 
-			bot.Send(thanks)
+	// 		thanks := tgbotapi.NewMessage(chatID,
+	// 			`Terima kasih telah menggunakan BOT LAYANAN BPS PASAMAN BARAT! 😊
 
-			delete(sessionActive, chatID)
-			delete(userTimers, chatID)
-		})
+	// 			Untuk mendapatkan informasi dan update terbaru dari kami, jangan lupa follow Instagram BPS Pasaman Barat:
+	// 			https://www.instagram.com/bps_pasbar`)
 
-	}
+	// 		bot.Send(thanks)
+
+	// 		delete(sessionActive, chatID)
+	// 		delete(userTimers, chatID)
+	// 	})
+
+	// }
 }

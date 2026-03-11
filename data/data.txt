@@ -1,0 +1,680 @@
+HASIL
+LONG FORM , |
+SENSUS PENDU
+
+2020 wv
+KABUPATEN PASAMAN BARAT™
+
+>
+
+mF ) BADAN PUSAT STATISTIK
+
+KABUPATEN PASAMAN BARAT
+HASIL
+LONG FORM
+
+SENSUS PENDUDUK
+
+2020
+
+KABUPATEN PASAMAN BARAT
+
+e, 5 BADAN PUSAT STATISTIK
+
+ie KABUPATEN PASAMAN BARAT
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+
+ISBN: -
+
+No. Publikasi: 13120.2302
+
+Katalog: 2102047.1312
+
+Ukuran Buku: 25 x 17,6 cm
+
+Jumlah Halaman: viii + 20 halaman
+
+Naskah: BPS Kabupaten Pasaman Barat
+
+Penyunting: BPS Kabupaten Pasaman Barat
+
+Desain Kover: BPS Kabupaten Pasaman Barat
+
+Penerbit: © BPS Kabupaten Pasaman Barat
+
+Dilarang mengumumkan, mendistribusikan, mengkomunikasikan, dan/atau
+menggandakan sebagian atau seluruh isi buku ini untuk tujuan komersial tanpa
+izin tertulis dari Badan Pusat Statistik Kabupaten Pasaman Barat
+
+(UU No, 28 Tahun 2014 Tentang Hak Cipta Pasal 43 huruf b)
+
+KATA PENGANTAR
+
+INDONESIA adalah negara dengan potensi yang sangat besar. Dari sisi J}umlah penduduk, Indonesia merupakan negara terbesar
+keempat di dunia setelah Tiongkok, India, dan Amerika Serikat. Dengan strategi yang tepat, penduduk sebagai sumber daya potensial
+dapat menjadi kekuatan bangsa untuk mewujudkan cita-cita Indonesia Maju.
+
+Pada tahun 2022, tepat satu dekade bonus demografi Indonesia, BPS berkomitmen menyelesaikan amanat untuk melaksanakan
+Sensus Penduduk Lanjutan (Long Form SP2020) dengan berbagai tantangan di tengah pandemi Covid-19. Atas seijin Tuhan Yang
+Maha Kuasa disertai dengan kerja keras seluruh pihak, pendataan Long Form SP2020 telah selesai dilaksanakan.
+
+Long Form SP2020 memikul misi besar sebagai Benchmark indikator kependudukan Indonesia, Potret Demografi Indonesia setelah
+melewati gelombang ke-2 Pandemi COVID-19 , evaluasi capaian pembangunan di bidang kependudukan pada SDGs dan RPJMN,
+serta menjadi dasar penentuan kebijakan pembangunan Indonesia menuju Indonesia Emas 2045.
+
+Meskipun dilaksanakan di tengah pandemi, terdapat beberapa inovasi yang diterapkan dalam Long Form SP2020 yang salah satunya
+adalah penggunaan berbagai moda pendataan (PAPI, CAPI, CATI, dan CAW1). Untuk pertama kalinya Computer Assisted Telephone
+Interviewing (CATI) diterapkan dalam sejarah sensus.penduduk di Indonesia.
+
+Perjalanan pelaksanaan dan hasil Long Form SP2020 disajikan secara ringkas dalam booklet Indikator Kependudukan Hasil Long
+Form SP2020. Booklet ini menyajikan gambaran komprehensif keadaan kependudukan Indonesia berdasarkan hasil Long Form
+SP2020. Cakupan data dasar dari angka hasil Long Form SP2020 adalah indikator fertilitas, mortalitas, mobilitas, disabilitas,
+pendidikan, dan perumahan. Penyediaan parameter demografi serta karakteristik penduduk tersebut diharapkan dapat dapat
+menghasilkan indikator untuk memonitor dan mengevaluasi pencapaian target SDGs dan RPJIMN di bidang kependudukan.
+
+Terima kasih kami ucapkan kepada semua pihak yang telah berpartisipasi dalam penyusunan booklet ini. Kritik dan saran kami
+harapkan untuk perbaikan di masa yang akan datang.
+
+Simpang Empat, Februari 2023
+Kepala_Badan Pusat Statistik Kabupaten Pasaman Barat
+
+ao
+
+Bambang Suryanggono, SST., M.Ec.Dev.
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat Pith
+GLOSARIUM
+
+KLASIFIKASI GENERASI PENDUDUK
+Klasifikasi Generasi Menurut Usia Penduduk untuk Long Form SP2020:
+« Post Gen Z: Lahir tahun 2013 dst, Perkiraan usia saat Long Form
+SP2020 adalah O-9 tahun
+* Generasi Z: Lahir tahun 1997-2012, Perkiraan usia saat Long Form
+SP2020 adalah 10-25 tahun
+« Milenial: Lahir tahun 1981-1996, Perkiraan usia saat Long Form
+SP2020 adalah 26-41 tahun
+* Generasi X: Lahir tahun 1965-1980, Perkiraan usia saat Long Form
+
+SP2020 adalah 42-57 tahun
+* Baby Boomer: Lahir tahun 1946-1964, Perkiraan usia saat Long Form
+
+SP2020 adalah 58-76 tahun
+« Pre-Boomer: Lahir tahun 1945 dan sebelumnya, Perkiraan usia saat
+Long Form SP2020 adalah 77 tahun ke atas
+
+Sumber pengklasifikasian: William H. Frey Analysis of Census Bureau
+Population Estimates (25 June 2020)
+
+INDIKATOR FERTILITAS
+Angka Kelahiran Total / Total Fertility Rate (TFR):
+
+Rata-rata jumlah anak yang dilahirkan hidup oleh seorang perempuan
+selama masa usia suburnya (15-49 tahun)
+
+Angka Kelahiran Kasar / Crude Birth Rate (CBR):
+Banyaknya kelahiran hidup per 1OOO penduduk pada pertengahan
+tahun.
+
+Angka Kelahiran Menurut Kelompok Umur Tertentu / Age Specific
+Fertility Rate (ASFR):
+Banyaknya kelahiran selama setahun per 1000 perempuan pada
+kelompok umur 15-49 tahun
+
+INDIKATOR MORTALITAS
+
+Angka Kematian Bayi (AKB) / Infant Mortality Rate (IMR):
+Banyaknya kematian bayi usia di bawah satu tahun, per 1000 kelahiran
+hidup pada satu tahun tertentu.
+
+Angka Kematian Balita (AKBa) / Under-Five Mortality Rate (U5MR):
+Jumlah penduduk umur 0-4 tahun (balita) yang meninggal sebelum
+mencapai umur tepat 5 tahun pada tahun tertentu per 1000 kelahiran
+hidup.
+
+Angka Kematian Anak / Child Mortality Rate (CMR) :
+Jumlah kematian penduduk umur 1-4 tahun pada tahun tertentu per
+1.000 kelahiran hidup.
+
+INDIKATOR MOBILITAS
+Angka Penduduk Berstatus Migran Seumur Hidup Antarkabupaten/
+
+kota:
+Banyaknya penduduk di suatu  kabupaten/kota yang lahir di
+
+kabupaten/kota lain per 100 penduduk.
+
+Proporsi Penduduk Berstatus Migran Risen Antarkabupaten/kota:
+Banyaknya penduduk umur lima tahun ke atas di suatu
+
+kabupaten/kota yang lima tahun sebelumnya bertempat tinggal di
+kabupaten/kota lain per 100 penduduk.
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+GLOSARIUM
+
+INDIKATOR PENDIDIKAN INDIKATOR PERUMAHAN
+Jenjang Pendidikan Yang Ditamatkan: Ketahanan Bangunan: Salah satu komponen penentu rumah layak huni
+Jenjang pendidikan tertinggi yang ditamatkan oleh seseorang, yang adalah ketahanan bangunan, yaitu bahan bangunan utama atap,
+ditandai dengan kepemilikan sertifikat/ijazah pada suatu jenjang dinding, dan lantai rumah terluas memenuhi syarat sebagai berikut:
+tertentu. * Bahan bangunan atap berupa beton, genteng, kayu/sirap, atau
+seng.
+
+» Bahan bangunan dinding berupa tembok, plesteran anyaman
+bambu/kawat, kayu/papan, atau batang kayu.
+* Bahan bangunan lantai berupa marmer/granit, keramik,
+
+parket/vinil/karpet, ubin/tegel/teraso, kayu/papan, atau semen/bata
+merah.
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+DAFTAR ISI
+
+Gambaran UMUM LONG FOrM SP2O20 wccccccccceennnnnnee 2 Penduduk Umur 15 Tahun ke Atas Menurut
+PONCICIKAN......esessssssessssssssssnsssnsssnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnssenenees
+
+é 15
+Indikator Fertilitas 3 Tingkat Pendidikan Antar GENeraSi...cccssssssssesssssssssssssssesssssssssseneesee 16
+Angka Kelahiran Total (TFR).snnennnnnanennnannninnaenninne 4 Kemampuan Berbahasa Indonesia
+Angka Kelahiran Kasar (CBR) dan Angka Kelahiran Menurut aN PeNgguNaaN Bahasa Daerah eevsccssscssssssssussssssssssssssssssnssssssssssnsee 7
+KeloMPok UMUT (ASFR)..nnnnnnnnnnnnnnnnnnnnnnnnnannnninninnnnnnnnnnnt 5 Kemampuan Berbahasa Indonesia dan Penggunaan Bahasa
+Daerah MeNnurut Gee raSl.....seeccccsssssssssnesssessssssssssssseessessssssssssssssessssssssssneeessesees 18
+Indikator Mortalitas 6
+Anka KEMatiaN Bayi wccccssssssssseescesssssssssseesesssssssssssseeee 7  Indikator Perumahan 19
+Angka Kematian Penduduk USIa DIMI ccusssssssssssssessssssssesssestenssssssssseees 8 KETANANAN BANGUIMAN...ssssssssssesssssesesesesesesesesesesesesesesesesessnssenesenenesenenenenenenenes 20
+Indikator Mobilitas 9
+Migran Seumur Hidup Antar Kabupaten/ Kota. 10
+Migran Risen Antar Kab Upaten/ KOta..ccsssssssssssssesvnsssssussssesusssssessssssesens ll
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+
+Selayang Pandang
+Long Form SP2020
+Pe See re ae Les
+Long Form SP2020 yang dilaksanakan pada tahun 2022, merupakan Misi Besar
+bentuk dukungan Badan Pusat Statistik dalam program Prioritas
+Nasional (PN) 3, yaitu Meningkatkan Sumber Daya Manusia Berkualitas
+dan Berdaya Saing
+
+Long Form SP2020
+
+Sensus Penduduk 2020 (SP2020) merupakan upaya Indonesia untuk menuju satu data
+kependudukan. Pelaksanaan SP2020 beralih menggunakan metode kombinasi melalui
+pemanfaatan data administrasi kependudukan dari Kementerian Dalam Negeri sebagai data
+dasar dalam pelaksanaan SP2020. Benchmark indikator
+kependudukan Indonesia
+
+Rangkaian kegiatan SP2020 dilaksanakan ke dalam dua tahapan. Tahapan pertama yaitu
+pendataan penduduk dengan menggunakan short form dan instrumen lainnya yang telah
+dilaksanakan pada tahun 2020. Tahapan selanjutnya pendataan berupa sensus sampel sebagai
+kelanjutan sensus penduduk menggunakan kuesioner yang Memuat pertanyaan yang lebih
+banyak dan lebih kompleks atau disebut sebagai Pendataan Long Form SP2020. Pendataan Long
+Form SP2020 awalnya akan dilaksanakan pada tahun 2021, tapi adanya pandemi Covid-19
+membuat Pendataan Long Form SP2020 digeser pada tahun 2022.
+
+Potret Demografi Indonesia
+setelah melewati gelombang ke-
+2 Pandemi COVID-19
+
+Pendataan Long Form SP2020 dilakukan untuk mendapatkan parameter demografi yang akurat
+dimana pendataannya dilaksanakan dengan mengumpulkan data-data yang lebih lengkap tidak
+hanya terkait parameter demografi, tetapi juga terkait pendidikan, disabilitas, maupun
+perumahan.
+
+Evaluasi capaian pembangunan
+Pendataan Long Form SP2020 ini dilaksanakan di seluruh wilayah di Indonesia dengan jumlah di bidang kependudukan pada
+
+sampel sebanyak 4.294.896 rumah tangga dalam 268.431 blok sensus (BS). Pendataan Long Form SDGs dan RPJIMN
+SP2020 ini dilakukan hanya kepada sampel rumah tangga terpilih dan pelaksanaannya terbagi
+
+menjadi dua tahap. Tahap pertama merupakan pemutakhiran dan tahap kedua pencacahan.
+
+Pemutakhiran dilakukan pada periode 15-31 Mei 2022 terhadap seluruh rumah tangga yang G2
+
+tinggal di blok sensus terpilih yang tersebar di 514 kabupaten/kota di seluruh Indonesia. Setelah
+dilakukan pemutakhiran, kKemudian dilakukan pengambilan sampel sebanyak 16 rumah tangga.
+Hanya sebanyak 16 rumah tangga yang terpilih sebagai sampel di tiap-tiap blok sensus tadi yang
+kemudian dilakukan pendataan dengan kuesioner pada periode 1-30 Juni 2022.
+
+Dasar penentuan kebijakan
+pembangunan menuju
+Indonesia Emas 2045
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+GAMBARAN UMUM LONG
+FORM SP2020
+
+Pendataan dengan Jadwal Inovasi
+
+sampel terbesar
+sepanjang sejarah
+
+7.184
+
+Rumah Tangga
+
+449
+
+Blok Sensus
+
+133
+
+Petugas Lapangan
+
+Persiapan
+2021-Maret 2022
+
+Pra Lapangan
+(rekrutment dan
+pelatihan)
+Februari-Mei 2022
+
+Pendataan Lapangan
+Mei-Juni 2022
+
+Pengolahan dan
+Diseminasi
+Juni 2022-23 Januari 2023
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+
+Dashboard LF SP2020 dengan
+sistem dynamic weighting untuk
+evaluasi tabel dan indikator secara
+
+realtime
+
+Dasboard LF SP2020 juga berfungsi
+sebagai dashboard monitoring untuk
+pemantauan kegiatan lapangan
+secara real time
+
+Penjaminan kualitas sebagai early
+warning dalam upaya menjaga
+kualitas data
+
+Penggunaan moda pendataan PAPI
+(Pencil and Paper Interviewing)
+| ANGKA KELAHIRAN TOTAL (TFR)
+
+TFR Indonesia Hasil Long Form SP2020: Menuju Replacement Level
+
+Tren TFR Kabupaten Pasaman Barat SP2010 - LF SP2020 Q
+
+3,33
+
+SP2010
+
+Fertilitas Kabupaten Pasaman Barat menurun dalam
+sepuluh tahun terakhir. Sensus Penduduk 2010 mencatat
+angka TFR sebesar 3,33 yang berarti seorang perempuan
+melahirkan sekitar 3 anak selama masa reproduksinya.
+Sementara Long Form SP2020 mencatat TFR sebesar 2,51
+yang berarti hanya sekitar 2 anak yang dilahirkan
+perempuan selama masa reprodukasinya.
+
+7
+
+TFR Kabupaten
+Pasaman Barat
+Hasil Long Form
+
+SP2020
+
+2,51
+
+LF SP2020°
+
+Penurunan fertilitas mengakibatkan proporsi anak-anak dalam
+populasi ikut menurun. Kondisi ini dapat mengakibatkan rasio
+ketergantungan menjadi lebih rendah dan menciptakan bonus
+demografi. Pada tahun 2022, tepat satu dekade bonus demografi
+Indonesia, tercatat TFR sebesar 2,17. Angka ini semakin mendekati
+tingkat Replacement Level (2,1), artinya setiap wanita digantikan
+oleh satu anak perempuannya untuk menjaga kelangsungan
+pergantian generasi.
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+ASER). KELAHIRAN MENURUT KELOMPOK UMUR
+ASFR
+
+An CBR) Kabupaten Age Spesific Fertility Rate (ASFR) Kabupaten Pasaman Barat Hasil LF SP2020
+
+Pasaman Barat
+
+149,30
+134,30
+92,60 83,60
+Hasil Long Form 42.00 7 27,80
+7 2, 0
+peaeneaanee = | 7
+tercapat 20 sampal 15-19 20-24 25-29 30-34 35-39 40-44 45-49
+
+kelahiran hidup
+diantara 1000 a Puncak ASFR terletak pada Wanita umur 25-29 tahun. Terdapat 149 kelahiran dari 1000
+penduduk Kabupaten perempuan umur 25-29 tahun.
+Pasaman Barat. ; ; ; ;
+a Pola ASFR berbentuk U terbalik. Angka kelahiran sebesar 12 kelahiran diantara 1OOO perempuan
+umur 15-19 tahun. Meningkat tajam menjadi 93 kelahiran per OOO perempuan umur 20-24. lalu
+
+mencapai puncaknya pada kelompok umur 25-29 tahun. Pada kelompok umur selanjutnya,
+angka kelahiran menurun hingga sebesar 3 kelahiran per OOO perempuan umur 45-49 tahun.
+
+a Berdasarkan generasi, kelahiran didominasi oleh perempuan generasi millennial (kisaran umur
+26-41 tahun).
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+| ANGKA KEMATIAN BAY!
+
+Dalam rentang 50 tahun (periode 1971-2022), penurunan Angka Kematian Bayi di Indonesia hampir 90 persen
+
+Angka Kematian Bayi Kabupaten Pasaman Barat
+SP 2010 - LF SP2020
+
+38
+
+22,84
+
+SP 2010 LF SP2020
+
+Selama periode satu dekade bonus demografi Indonesia, Angka
+Kematian Bayi (AKB) di Kabupaten Pasaman Barat menurun
+signifikan dari 38 per 1.000 kelahiran hidup hasil Sensus
+Penduduk 2010 menjadi 22,84 per 1.000 kelahiran hidup hasil
+Long Form SP2020. Peningkatan persentase bayi yang mendapat
+imunisasi lengkap serta peningkatan rata-rata lama pemberian
+ASI (sumber: Susenas Tahun 2019-2022) membuat bayi semakin
+mampu bertahan hidup.
+
+8 Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+| ANGKA KEMATIAN PENDUDUK USIA DINI
+
+Terdapat sekitar 4 kematian anak umur 1-4 tahun per 1.000 kelahiran hidup di Kabupaten Pasaman Barat.
+
+Angka Kematian Anak 1-4 Tahun/Child Mortality Rate Angka Kematian Balita/ Under § Mortality Rate
+
+Setiap 1000 balita di Kabupaten Pasaman
+Barat, 27 diantaranya tidak akan berhasil
+mencapai umur tepat lima tahun.
+
+Terdapat sekitar 4 kematian anak umur 1-4
+tahun per 1.000 kelahiran hidup
+
+8 Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+MIGRAN SEUMUR HIDUP
+KABUPATEN PASAMAN BARAT
+
+9 dari 100 penduduk Kabupaten Proporsi Penduduk Berstatus Migran Seumur Hidup
+Pasaman Barat lahir di luar abupaten Pasaman Barat Menurut Generasi
+Kabupaten Pasaman Barat.
+18,11
+Komposisi Migran Seumur Hidup 14,88
+Antarkabupaten/Kota Menurut Jenis Kelamin 11,73
+f ” 5,27
+Gg g 2,22
+| po
+Post Gen Z Generasi Z Milenial GenerasiX — Pre-Boomer &
+(0-9 tahun) (10-25tahun) (26-41tahun) (42-57 tahun) Baby Boomer
+
+(58+ tahun)
+
+m Proporsi penduduk berstatus migran seumur hidup pada
+generasi x lebih tinggi daripada pre-boomer dan baby
+
+boomer serta generasi yang lebih muda.
+Lebih dari setengah migran seumur hidup i m Sebanyak 15 dari 100 penduduk pre-boomer dan baby
+ao . boomer lahir di luar Kabupaten Pasaman Barat.
+Kabupaten Pasaman Barat berjenis kelamin
+
+laki-laki.
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+
+MIGRAN RISEN
+
+KABUPATEN PASAMAN BARAT
+
+Pada 2022, sebanyak 2 dari 100
+penduduk berumur 5 tahun ke
+atas di Kabupaten Pasaman
+Barat bertempat tinggal di
+kabupaten/kota lain 5 tahun
+sebelumnya.
+Komposisi Migran Risen
+Antarkabupaten/kota Menurut Jenis Kelamin
+
+Lebih dari setengah migran risen di Kabupaten
+Pasaman Barat berjenis kelamin perempuan.
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+
+Proporsi Penduduk Berstatus Migran Risen
+Kabupaten Pasaman Barat Menurut Generasi
+
+3,05
+2,13 2,13
+1,32
+a ine
+Po
+Post Gen Z Generasi Z Milenial Generasi X  Pre-Boomer &
+(5-gtahun) (10-25tahun) (26-41tahun) (42-57 tahun) Baby Boomer
+
+(58+ tahun)
+
+m Sebanyak 3 dari 100 penduduk generasi milenial di
+Kabupaten Pasaman Barat merupakan migran risen.
+
+m Generasi yang lebih muda (post gen z, generasi z, dan
+milenial} memperlihatkan proporsi migran risen lebih tinggi
+daripada generasi yang lebih tua (generasi x, pre-boomer,
+
+dan baby boomer).
+PENDUDUK UMUR 15 TAHUN KE ATAS
+MENURUT PENDIDIKAN
+
+Mayoritas penduduk berumur 15 tahun ke atas berpendidikan SMA/Sederajat
+
+Persentase Penduduk Umur 15 Tahun ke Atas Menurut
+Pendidikan yang Ditamatkan dan Kategori Wilayah
+
+1,19
+Tidak/belum pernah sekolah E 1,60
+1,03 a Mayoritas penduduk berumur 15
+; tahun ke atas  berpendidikan
+Tidak tamat SD Sekolah Menengah atau Sederajat.
+. a Mayoritas penduduk berumur 15
+SD/sederajat tahun ke atas di perkotaan dan
+perdesaan berpendidikan Sekolah
+SMP /sederajat Menengah atau Sederajat.
+32,82
+SM/ sederajat 32,16
+33,08
+2,15
+DI/DII/DIII 2,09
+2,17
+6,58
+DIV/S1 7:72
+6,13
+0,04
+Profesi 0,08
+0,02 mKota + Desa
+0,13
+$2/S3 | 0,27
+0,08
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+| TINGKAT PENDIDIKAN ANTAR GENERASI
+
+Mayoritas tingkat pendidikan tertinggi yang ditamatkan oleh Generasi Baby Boomer dan Generasi X adalah
+SD/Sederajat, sementara tingkat pendidikan tertinggi yang ditamatkan oleh Generasi Milenial adalah
+
+SMA/Sederajat.
+
+Tingkat Pendidikan yang Ditamatkan pada Generasi Baby Boomer, Generasi X, dan Milenial (Persen)
+47,14
+
+19,27 19,12
+11,57
+060 130 5% = i... 0,40 0100 0:00
+Tidak/belum pernan Tidak tamat SD SD/sederajat SMP /sederajat SM/ sede rajat DI/DIV Dil DIV/S1 Profesi
+sekolah
+m= Milenial mu Generasi X mu Generasi Baby Boomer
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+
+0,19 0,19 0,06
+
+$2/83
+KEMAMPUAN BERBAHASA INDONESIA
+DAN PENGGUNAAN BAHASA DAERAH
+
+Indonesia merupakan negara dengan berbagai macam suku bangsa, dengan Bahasa Indonesia sebagai
+bahasa persatuan. Mayoritas penduduk Indonesia mampu berbahasa Indonesia. Sebagian penduduk juga
+tetap mempertahankan kelestarian bahasa daerah melalui penggunaan dalam berkomunikasi dengan
+
+keluarga dan tetangga/kerabat.
+
+Kemampuan Berbahasa Indonesia Penggunaan Bahasa Daerah Penggunaan Bahasa Daerah
+di Keluarga di Tetangga/Kerabat
+
+95,95% 92,06%
+
+Penduduk Kabupaten
+
+Penduduk Penduduk Kabupaten
+& Kabupaten & Pasaman Barat & Pasaman Barat
+A Pasaman Barat bisa A menggunakan Bahasa A menggunakan Bahasa
+menggunakan daerah untuk berkomunikasi daerah untuk berkomunikasi
+
+Bahasa Indonesia dengan keluarga dengan tetangga/kerabat
+
+*\Catatan: Long Form SP2020 mengumpulkan informasi bahasa untuk penduduk umur 2 tahun ke atas
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+KEMAMPUAN BERBAHASA INDONESIA
+MENURUT GENERASI
+
+Penggunaan Bahasa Indonesia Semakin Ditinggalkan oleh Generasi yang Lebih Tua
+
+Di tengah maraknya penggunaan Bahasa asing untuk berkomunikasi, Bahasa Indonesia sebagai bahasa nasional serta perlu
+untuk terus dijaga antar generasi. Sekian persen generasi milenial dapat berkomunikasi dengan Bahasa Indonesia.
+
+Persentase Penduduk dengan Kemampuan Berbahasa Indonesia
+
+Post Gen Z GenZ Milenial Gen X Baby Boomer Pre Boomer
+(Lahir 2013 dst) (Lahir 1997-2012) (Lahir 1981-1996) (Lahir 1965-1980) (Lahir 1946-1964) (Lahir 1945 &
+
+sebelumnya)
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+KEMAMPUAN BERBAHASA DAERAH DI
+KELUARGA MENURUT GENERASI
+
+Penggunaan Bahasa Daerah Semakin Ditinggalkan oleh Generasi yang Lebih Muda
+Bahasa daerah sebagai simbol budaya perlu untuk terus dijaga antar generasi. Persentase penutur Bahasa daerah di kalangan
+Generasi Milenial dan Generasi Z sebagai penduduk mayoritas cukup besar. Namun semakin menurun persentase pengguna
+
+Bahasa Daerah di Keluarga
+
+Persentase Penduduk dengan Penggunaan Bahasa Daerah di Keluarga
+
+97,60
+96,50
+94,30 94,99
+93,20
+, _
+
+Post Gen Z GenZ Milenial Gen X Baby Boomer Pre Boomer
+(Lahir 1981-1996)  (Lahir 1965-1980) (Lahir 1946-1964) (Lahir 1945 &
+
+sebelumnya)
+
+(Lahir 2013 dst)  (Lahir 1997-2012)
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+KEMAMPUAN BERBAHASA DAERAH DI
+TETANGGA/KERABAT MENURUT GENERASI
+
+Penggunaan Bahasa Daerah Semakin Ditinggalkan oleh Generasi yang Lebih Muda
+
+Bahasa daerah sebagai simbol budaya perlu untuk terus dijaga antar generasi. Persentase penutur Bahasa daerah di kalangan
+Generasi Milenial dan Generasi Z sebagai penduduk mayoritas cukup besar. Namun semakin menurun persentase pengguna
+
+Bahasa Daerah di Tetangga/Kerabat
+
+Persentase Penduduk dengan Penggunaan Bahasa Daerah di Tetangga/Kerabat
+
+95,85
+94,10
+92,54 92,56 92,72
+7 -
+Post Gen Z GenZ Milenial Gen X Baby Boomer Pre Boomer
+(Lahir 1981-1996)  (Lahir 1965-1980) (Lahir 1946-1964) (Lahir 1945 &
+sebelumnya)
+
+(Lahir 2013 dst)  (Lahir 1997-2012)
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+Indikator Perumahan
+
+Ta; rs, | ww wt ’
+
+| KETAHANAN BANGUNAN
+
+Persentase rumah tangga menempati
+99,37% rumah dengan atap yang memenuhi syarat
+ketahanan bangunan.
+
+Persentase rumah tangga menempati
+rumah dengan dinding yang memenuhi
+syarat ketahanan bangunan.
+
+98,34%
+
+rumah tangga menempati
+rumah yang memenuhi
+syarat ketahanan
+bangunan
+
+Persentase rumah tangga menempati
+99,66% rumah dengan Lantai yang memenuhi syarat
+ketahanan bangunan.
+
+Bahan bangunan utama atap, dinding, dan lantai rumah terluas yang memenuhi
+
+syarat ketahanan bangunan, yaitu:
+Salah satu komponen penentu rumah
+
+layak huni adalah ketahanan bangunan,
+yang dilinat dari bahan bangunan utama =: Bahan bangunan dinding berupa tembok, plesteran anyaman bambu/kawat,
+
+atap, dinding, dan lantai rumah terluas. kayu/papan, atau batang kayu.
+
+- Bahan bangunan lantai berupa marmer/granit, keramik, parket/vinil/karpet,
+ubin/tegel/teraso, kayu/papan, atau semen/bata merah.
+
+Hasil Long Form Sensus Penduduk 2020 Kabupaten Pasaman Barat
+
+- Bahan bangunan atap berupa adalah beton, genteng, kayu/sirap, atau seng.
+S75 20235
+
+SENSUS PERTANIAN
+
+»
+BerAKHLAK
+
+anan Akuntabel Kompeten
+Harmonis Loyal Adaptif Kolaboratif
+
+DATA
+
+MENCERDASKAN BANGSA
+
+BADAN PUSAT STATISTIK
+KABUPATEN PASAMAN BARAT
+
+Jl. Prof. Hamka No. 10, Jorong Pasaman Baru,
+Simpang Empat, Pasaman Barat.
+
+Homepage : http://pasamanbaratkab.bps.go.id
+Email : bps1312@bps.go.id

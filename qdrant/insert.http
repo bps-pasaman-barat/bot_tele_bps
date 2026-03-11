@@ -1,0 +1,23 @@
+PUT http://localhost:6333/collections/bps_knowledge/points
+Content-Type: application/json
+
+{
+    "points": [
+        {
+            "id": 1,
+            "vector": [0.12, -0.44, 0.88],
+            "payload": {
+                "text": "data 1",
+                "source": "../data/api.txt"
+            }
+        },
+        {
+            "id": 2,
+            "vector": [0.12, -0.44, 0.88],
+            "payload": {
+                "text": "data 2",
+                "source": "../data/data.txt"
+            }
+        }
+    ]
+}

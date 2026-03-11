@@ -1,0 +1,8 @@
+POST http://localhost:6333/collections/bps_knowledge/search
+Content-Type: application/json
+
+{
+  "vector": [0.2, 0.1, 0.9, 0.7],
+  "limit": 3,
+  "with_payload": true
+}

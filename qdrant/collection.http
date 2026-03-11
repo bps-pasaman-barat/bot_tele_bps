@@ -1,0 +1,9 @@
+PUT http://localhost:6333/collections/bps_knowledge
+Content-Type: application/json
+
+{
+  "vectors": {
+    "size": 3,
+    "distance": "Cosine"
+  }
+}

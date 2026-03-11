@@ -1,6 +1,33 @@
 services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    restart: unless-stopped
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_storage:/qdrant/storage
+    networks:
+      - bot_network
+
   bot:
     build: .
     image: bot-tele-bps:1
     container_name: bot-tele-bps
     restart: always
+    depends_on:
+      - qdrant
+    environment:
+      QDRANT_HOST: qdrant
+      QDRANT_PORT: 6333
+    networks:
+      - bot_network
+
+volumes:
+  qdrant_storage:
+
+networks:
+  bot_network:
+    name: bot_network
+    driver: bridge
