@@ -1,3 +1,5 @@
 .env
 tmp/
 bot_tele_bps.git
+parser/.venv
+data-reference/
